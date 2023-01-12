@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'coral',
   },
   content: {
-    padding: 40
+    padding: 40,
   },
   list: {
     marginTop: 20
