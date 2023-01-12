@@ -9,10 +9,6 @@ export default function AddTodo({ submitHandler }) {
         setText(val)
     }
 
-    const handlePress = (e) => {
-        console.log(text)
-    }
-
     return (
         <View>
             <TextInput
